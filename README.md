@@ -1,6 +1,8 @@
 # TODO
 * [ ] Metrics (https://console.bluemix.net/docs/java/spring-metrics.html#spring-metrics)
-* [ ] Gateway
+* [x] Gateway
+* [x] Discovery
+* [x] Configuration service
 * [ ] Multitenancy
 * [ ] Security
 * [ ] Check how much memory is used by JPA hibernate given **n** entities
