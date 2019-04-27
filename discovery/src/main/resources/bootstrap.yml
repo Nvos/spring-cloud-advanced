@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: discovery
+  cloud:
+    config:
+      fail-fast: true
+  profiles:
+    active: dev
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    registerWithEureka: false
+    fetchRegistry: false

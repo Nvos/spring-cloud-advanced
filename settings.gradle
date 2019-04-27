@@ -1,0 +1,8 @@
+rootProject.name = 'adv'
+
+include 'admin-service'
+include 'user-service'
+include 'frontend'
+include 'gateway'
+include 'discovery'
+include 'configuration'
